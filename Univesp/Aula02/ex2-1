@@ -1,0 +1,9 @@
+#x = [1,2,3,4,5]
+#soma = sum(x)
+
+#idade = [23, 19, 31]
+#soma = sum(idade)
+#print (soma/len(idade))
+
+#print(403//73)
+
